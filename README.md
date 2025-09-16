@@ -1,4 +1,4 @@
-# Health-Gaurd
+# Health-Guard
 
 This repository contains the codebase for "ML Health Gaurd". The training notebooks & the datasets are also provided in the respective folders.
 
